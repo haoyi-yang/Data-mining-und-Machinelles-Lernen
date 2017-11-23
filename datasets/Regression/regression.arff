@@ -1,0 +1,23 @@
+@relation servo
+
+@attribute A1 {A,B,C}
+@attribute A2 {I,J,K}
+@attribute A3 {R,S,T}
+@attribute A4 {X,Y,Z}
+@attribute class real
+
+@data
+C,K,T,X,0.28
+B,J,S,X,0.50
+C,J,S,Z,0.35
+B,I,R,Y,5.50
+A,J,T,Z,0.35
+A,K,S,Z,0.80
+C,I,R,Y,5.10
+A,I,R,Y,5.70
+C,I,S,Y,0.76
+B,I,S,X,1.03
+B,K,R,Y,0.46
+C,K,T,Z,0.39
+B,K,S,X,0.28
+A,K,R,X,1.10

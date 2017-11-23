@@ -1,0 +1,14 @@
+@relation servo_test
+
+@attribute A1 {A,B,C}
+@attribute A2 {I,J,K}
+@attribute A3 {R,S,T}
+@attribute A4 {X,Y,Z}
+@attribute class real
+
+@data
+B,J,T,Z,0.51
+C,K,R,Y,1.9
+B,J,R,X,0.9
+A,J,S,Y,0.47
+A,K,T,Z,0.54
